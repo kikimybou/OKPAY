@@ -27,3 +27,5 @@ H5网页端体验地址：flashg.releme.cn
 后台账号：admin
 
 后台密码：admin123
+
+购买源码以及作者联系方式：微:alijinyi    QQ:978243710
